@@ -1,4 +1,4 @@
 # ProbleOfTheDay
-Learning to cewate a repo.
+Learning to create a repo.
 ## Clone Repo
 Learning to clone a repo.
