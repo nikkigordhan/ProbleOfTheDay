@@ -1,0 +1,59 @@
+﻿<Cars>
+
+	<Tesla>
+
+		<name>Tesla</name>
+
+		<price>1000000</price>
+
+		<description>hatchback</description>
+
+		<milege>2000</milege>
+
+	</Tesla>
+
+
+
+	<Toyota>
+
+		<name>Toyota</name>
+
+		<price>200000</price>
+
+		<description>sudan</description>
+
+		<milege>0</milege>
+
+	</Toyota>
+
+
+
+
+
+	<Kia>
+
+		<name>Kia</name>
+
+		<price>125000</price>
+
+		<description>hatchback</description>
+
+		<milege>350000</milege>
+
+	</Kia>
+
+
+
+	<Ford>
+
+		<name>Ford</name>
+
+		<price>1350000</price>
+
+		<description>coupe</description>
+
+		<milege>350000</milege>
+
+	</Ford>
+
+</Cars>
